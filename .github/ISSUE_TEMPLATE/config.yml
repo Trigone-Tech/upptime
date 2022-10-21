@@ -7,5 +7,5 @@ contact_links:
     url: https://github.com/upptime/upptime/discussions/new?category=q-a
     about: Please ask and answer questions here
   - name: Maintenance
-    url: https://github.com/Trigone-Tech/upptime/issues/new?title=maintenance&labels=maintenance&body=%3C!--%0A%20start:%202021-02-24T13:00:00+00:00%0Aend:%202021-02-24T14:00:00+00:00%0AexpectedDown:%20corporate,%20office%20%0A--%3E
+    url: https://github.com/Trigone-Tech/upptime/issues/new?title=maintenance&labels=maintenance&body=%3C!--%0A%20start:%202021-02-24T13:00:00%2B00:00%0Aend:%202021-02-24T14:00:00%2B00:00%0AexpectedDown:%20corporate,%20office%20%0A--%3E
     about: Define a scheduled maintenance
