@@ -17,9 +17,8 @@ status-website:
   cname: live.ayruu.com
   logoUrl: https://corporate.ayruu.com/ayruu-logo.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Ayruu status page
-  introTitle: "**Ayruu** service status."
-  introMessage: Status page which uses **real-time** data.
+  introTitle: "Uptime monitor and status page"
+  introMessage: "Retrieve our services' state (live) on this page, which uses **real-time** data."
   
   navbar:
     - title: Status
