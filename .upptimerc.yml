@@ -7,8 +7,28 @@ sites:
     url: https://corporate.ayruu.com
   - name: Office
     url: https://office.ayruu.com
+  - name: MyA
+    url: $MS_CHATBOT_ENDPOINT
+  - name: Contract
+    url: $MS_CONTRACT_ENDPOINT
   - name: Organization
     url: $MS_ORGANIZATION_ENDPOINT
+  - name: Engine
+    url: $MS_ENGINE_ENDPOINT
+  - name: Booker1
+    url: $MS_CAR_ENDPOINT
+  - name: Booker2
+    url: $MS_DRIVER_ENDPOINT
+  - name: Booker3
+    url: $MS_FLIGHT_ENDPOINT
+  - name: Booker4
+    url: $MS_HOTEL_ENDPOINT
+  - name: Booker5
+    url: $MS_TRAIN_ENDPOINT
+  - name: Feed
+    url: $MS_FEED_ENDPOINT
+  - name: Policy
+    url: $MS_POLICY_ENDPOINT
 
 assignees:
   - adaniloff
