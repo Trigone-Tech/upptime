@@ -15,10 +15,11 @@ assignees:
 
 status-website:
   cname: live.ayruu.com
-  logoUrl: https://corporate.ayruu.com/ayruu-logo.png
+  logoUrl: https://corporate.ayruu.com/icons/favicon-128x128.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  introTitle: "Uptime monitor and status page"
-  introMessage: "Retrieve our services' state (live) on this page, which uses **real-time** data."
+  name: "Ayruu status page"
+  introTitle: "Ayruu's uptime monitor and status page"
+  introMessage: "Retrieve our services' state (live) on this page, our planned maintenance and reports."
   
   navbar:
     - title: Status
