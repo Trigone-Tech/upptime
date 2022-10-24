@@ -7,7 +7,7 @@ sites:
     url: https://corporate.ayruu.com
   - name: Office
     url: https://office.ayruu.com
-  - name: Cluster: organization
+  - name: Organization
     url: $MS_ORGANIZATION_ENDPOINT
 
 assignees:
