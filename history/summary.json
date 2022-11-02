@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/corporate.ayruu.com.ico",
     "slug": "corporate",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 573,
     "timeDay": 582,
     "timeWeek": 575,
     "timeMonth": 573,
     "timeYear": 573,
-    "dailyMinutesDown": {
-      "2022-11-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Office",
