@@ -6,16 +6,18 @@
     "slug": "corporate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 572,
-    "timeDay": 535,
+    "timeDay": 537,
     "timeWeek": 567,
     "timeMonth": 562,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-02": 5
+    }
   },
   {
     "name": "Office",
