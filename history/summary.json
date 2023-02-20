@@ -5,37 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/corporate.ayruu.com.ico",
     "slug": "corporate",
     "status": "up",
-    "uptime": "86.17%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.67%",
-    "uptimeYear": "86.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 572,
-    "timeDay": 548,
+    "timeDay": 546,
     "timeWeek": 568,
     "timeMonth": 571,
     "timeYear": 572,
-    "dailyMinutesDown": {
-      "2023-02-20": 510,
-      "2023-02-19": 1440,
-      "2023-02-18": 1440,
-      "2023-02-17": 1440,
-      "2023-02-16": 1440,
-      "2023-02-15": 1440,
-      "2023-02-14": 1440,
-      "2023-02-13": 1440,
-      "2023-02-12": 1440,
-      "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440,
-      "2023-02-08": 660,
-      "2023-01-30": 519,
-      "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 949
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Office",
@@ -43,24 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.ayruu.com.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "95.89%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.58%",
-    "uptimeYear": "95.89%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 531,
+    "timeDay": 532,
     "timeWeek": 528,
     "timeMonth": 563,
     "timeYear": 561,
-    "dailyMinutesDown": {
-      "2023-01-30": 520,
-      "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 914
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MyA",
@@ -68,25 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-a",
     "status": "up",
-    "uptime": "95.75%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "83.40%",
-    "uptimeYear": "95.75%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 851,
-    "timeDay": 796,
-    "timeWeek": 799,
+    "timeDay": 794,
+    "timeWeek": 798,
     "timeMonth": 841,
     "timeYear": 851,
-    "dailyMinutesDown": {
-      "2023-02-15": 65,
-      "2023-01-30": 520,
-      "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 930
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Contract",
@@ -94,25 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "contract",
     "status": "up",
-    "uptime": "95.75%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "83.40%",
-    "uptimeYear": "95.75%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 593,
     "timeWeek": 593,
-    "timeMonth": 623,
+    "timeMonth": 622,
     "timeYear": 621,
-    "dailyMinutesDown": {
-      "2023-02-15": 65,
-      "2023-01-30": 519,
-      "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 928
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Organization",
@@ -120,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "organization",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1092,
-    "timeDay": 1152,
+    "timeDay": 1154,
     "timeWeek": 1135,
     "timeMonth": 1083,
     "timeYear": 1092,
-    "dailyMinutesDown": {
-      "2023-02-15": 65
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Engine",
@@ -140,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "engine",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 254,
-    "timeWeek": 267,
+    "timeWeek": 266,
     "timeMonth": 277,
     "timeYear": 285,
-    "dailyMinutesDown": {
-      "2023-02-15": 65
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Booker1",
@@ -160,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker1",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 226,
-    "timeWeek": 238,
+    "timeDay": 227,
+    "timeWeek": 237,
     "timeMonth": 257,
     "timeYear": 257,
-    "dailyMinutesDown": {
-      "2023-02-15": 65
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Booker2",
@@ -180,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker2",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 259,
-    "timeWeek": 270,
+    "timeDay": 260,
+    "timeWeek": 269,
     "timeMonth": 285,
     "timeYear": 295,
-    "dailyMinutesDown": {
-      "2023-02-15": 65
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Booker3",
@@ -200,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker3",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 278,
     "timeDay": 294,
     "timeWeek": 267,
     "timeMonth": 274,
     "timeYear": 278,
-    "dailyMinutesDown": {
-      "2023-02-15": 64
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Booker4",
@@ -220,19 +167,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker4",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 279,
+    "timeDay": 280,
     "timeWeek": 283,
     "timeMonth": 292,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2023-02-15": 64
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Booker5",
@@ -240,19 +185,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker5",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.95%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 230,
     "timeWeek": 242,
     "timeMonth": 249,
     "timeYear": 252,
-    "dailyMinutesDown": {
-      "2023-02-15": 90
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Feed",
@@ -284,7 +227,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 188,
+    "timeDay": 187,
     "timeWeek": 196,
     "timeMonth": 207,
     "timeYear": 213,
