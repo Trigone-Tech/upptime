@@ -1,7 +1,7 @@
 url: $MS_TRAIN_ENDPOINT
 status: up
 code: 200
-responseTime: 183
-lastUpdated: 2023-02-22T23:00:21.215Z
+responseTime: 256
+lastUpdated: 2023-02-22T23:04:35.501Z
 startTime: Mon Oct 24 2022 13:49:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
