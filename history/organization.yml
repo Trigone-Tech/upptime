@@ -1,7 +1,7 @@
 url: $MS_ORGANIZATION_ENDPOINT
 status: up
 code: 200
-responseTime: 1474
-lastUpdated: 2023-08-18T23:04:41.030Z
-startTime: Mon Oct 24 2022 13:30:19 GMT+0000 (Coordinated Universal Time)
+responseTime: 1391
+lastUpdated: 2023-08-19T23:04:27.818Z
+startTime: 2022-10-24T13:30:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
