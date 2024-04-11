@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/corporate.ayruu.com.ico",
     "slug": "corporate",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.92%",
+    "uptimeDay": "91.69%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.88%",
     "time": 542,
-    "timeDay": 449,
-    "timeWeek": 514,
-    "timeMonth": 530,
+    "timeDay": 436,
+    "timeWeek": 495,
+    "timeMonth": 524,
     "timeYear": 541,
     "dailyMinutesDown": {
+      "2024-04-11": 120,
       "2023-09-24": 30,
       "2023-07-10": 480
     }
@@ -56,7 +57,7 @@
     "timeDay": 737,
     "timeWeek": 909,
     "timeMonth": 931,
-    "timeYear": 991,
+    "timeYear": 992,
     "dailyMinutesDown": {}
   },
   {
@@ -218,7 +219,7 @@
     "timeDay": 455,
     "timeWeek": 446,
     "timeMonth": 429,
-    "timeYear": 372,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   },
   {
@@ -236,7 +237,7 @@
     "timeDay": 415,
     "timeWeek": 451,
     "timeMonth": 456,
-    "timeYear": 390,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
