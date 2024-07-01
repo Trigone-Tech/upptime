@@ -57,7 +57,7 @@
     "timeDay": 878,
     "timeWeek": 857,
     "timeMonth": 950,
-    "timeYear": 1028,
+    "timeYear": 1027,
     "dailyMinutesDown": {}
   },
   {
@@ -119,18 +119,20 @@
     "url": "$MS_CAR_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 484,
-    "timeDay": 497,
-    "timeWeek": 518,
-    "timeMonth": 510,
-    "timeYear": 486,
-    "dailyMinutesDown": {}
+    "timeDay": 327,
+    "timeWeek": 473,
+    "timeMonth": 498,
+    "timeYear": 485,
+    "dailyMinutesDown": {
+      "2024-07-01": 2
+    }
   },
   {
     "name": "Booker2",
