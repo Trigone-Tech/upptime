@@ -42,18 +42,20 @@
     "url": "$MS_CHATBOT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 1324,
-    "timeWeek": 1141,
-    "timeMonth": 1184,
+    "time": 988,
+    "timeDay": 1032,
+    "timeWeek": 1091,
+    "timeMonth": 1170,
     "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "Contract",
