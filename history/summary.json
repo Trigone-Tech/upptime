@@ -54,7 +54,7 @@
     "timeMonth": 607,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2025-06-15": 16,
+      "2025-06-15": 54,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -302,10 +302,10 @@
     "url": "$MS_HOTEL_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 569,
@@ -313,7 +313,9 @@
     "timeWeek": 552,
     "timeMonth": 571,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-15": 1
+    }
   },
   {
     "name": "Booker5",
