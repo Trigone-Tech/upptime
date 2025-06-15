@@ -47,14 +47,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.51%",
+    "uptimeYear": "64.50%",
     "time": 892,
     "timeDay": 657,
     "timeWeek": 581,
     "timeMonth": 607,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2025-06-15": 260,
+      "2025-06-15": 289,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -193,10 +193,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "contract",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptime": "99.99%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 921,
     "timeDay": 852,
@@ -204,7 +204,7 @@
     "timeMonth": 1026,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-06-15": 48
+      "2025-06-15": 77
     }
   },
   {
@@ -272,18 +272,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker2",
     "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.32%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 540,
     "timeDay": 634,
     "timeWeek": 570,
     "timeMonth": 552,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2025-06-15": 3
+      "2025-06-15": 32
     }
   },
   {
@@ -291,11 +291,11 @@
     "url": "$MS_FLIGHT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 531,
     "timeDay": 645,
@@ -303,7 +303,7 @@
     "timeMonth": 551,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2025-06-15": 23
+      "2025-06-15": 25
     }
   },
   {
@@ -351,9 +351,9 @@
     "url": "$MS_FEED_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "feed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.28%",
+    "uptimeDay": "97.25%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
