@@ -47,14 +47,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.52%",
+    "uptimeYear": "64.51%",
     "time": 892,
     "timeDay": 657,
     "timeWeek": 581,
     "timeMonth": 607,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2025-06-15": 172,
+      "2025-06-15": 220,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -192,18 +192,20 @@
     "url": "$MS_CONTRACT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "contract",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 920,
+    "time": 921,
     "timeDay": 852,
     "timeWeek": 1023,
     "timeMonth": 1026,
     "timeYear": 934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-15": 8
+    }
   },
   {
     "name": "Organization",
@@ -212,17 +214,17 @@
     "slug": "organization",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 1810,
     "timeDay": 1827,
     "timeWeek": 1957,
     "timeMonth": 1945,
     "timeYear": 1848,
     "dailyMinutesDown": {
-      "2025-06-15": 76
+      "2025-06-15": 124
     }
   },
   {
@@ -248,19 +250,19 @@
     "url": "$MS_CAR_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.97%",
     "time": 491,
-    "timeDay": 402,
-    "timeWeek": 483,
-    "timeMonth": 489,
-    "timeYear": 495,
+    "timeDay": 459,
+    "timeWeek": 487,
+    "timeMonth": 490,
+    "timeYear": 496,
     "dailyMinutesDown": {
-      "2025-06-15": 74,
+      "2025-06-15": 117,
       "2024-07-01": 21
     }
   },
@@ -287,18 +289,20 @@
     "url": "$MS_FLIGHT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 531,
     "timeDay": 500,
     "timeWeek": 542,
     "timeMonth": 543,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-15": 4
+    }
   },
   {
     "name": "Booker4",
@@ -325,10 +329,10 @@
     "url": "$MS_TRAIN_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker5",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "99.32%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 549,
@@ -337,7 +341,7 @@
     "timeMonth": 558,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-06-15": 68
+      "2025-06-15": 71
     }
   },
   {
@@ -345,10 +349,10 @@
     "url": "$MS_FEED_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "feed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 449,
@@ -356,26 +360,28 @@
     "timeWeek": 452,
     "timeMonth": 470,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-15": 2
+    }
   },
   {
     "name": "Policy",
     "url": "$MS_POLICY_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "policy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 841,
-    "timeWeek": 735,
-    "timeMonth": 676,
-    "timeYear": 587,
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
+    "time": 553,
+    "timeDay": 945,
+    "timeWeek": 774,
+    "timeMonth": 688,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-06-15": 1
+      "2025-06-15": 49
     }
   }
 ]
