@@ -1,7 +1,7 @@
 url: $MS_CONTRACT_ENDPOINT
-status: down
-code: 503
-responseTime: 90
-lastUpdated: 2025-06-22T17:35:50.281Z
+status: up
+code: 200
+responseTime: 1145
+lastUpdated: 2025-06-22T18:05:14.841Z
 startTime: 2022-10-24T13:48:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
