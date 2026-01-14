@@ -1,7 +1,7 @@
 url: $MS_FEED_ENDPOINT
-status: down
-code: 503
-responseTime: 98
-lastUpdated: 2026-01-13T23:07:20.348Z
+status: up
+code: 200
+responseTime: 350
+lastUpdated: 2026-01-14T09:52:53.578Z
 startTime: 2022-10-24T13:49:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
