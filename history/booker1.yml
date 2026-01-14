@@ -1,7 +1,7 @@
 url: $MS_CAR_ENDPOINT
-status: down
-code: 503
-responseTime: 98
-lastUpdated: 2026-01-13T23:07:17.987Z
+status: up
+code: 200
+responseTime: 481
+lastUpdated: 2026-01-14T09:52:38.465Z
 startTime: 2022-10-24T13:49:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
