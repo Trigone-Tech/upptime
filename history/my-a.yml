@@ -1,7 +1,7 @@
 url: $MS_CHATBOT_ENDPOINT
 status: down
 code: 503
-responseTime: 675
-lastUpdated: 2026-05-02T23:18:37.181Z
+responseTime: 500
+lastUpdated: 2026-05-03T23:19:12.264Z
 startTime: 2022-10-24T13:48:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
