@@ -1,7 +1,7 @@
 url: $MS_DRIVER_ENDPOINT
-status: down
-code: 503
-responseTime: 315
-lastUpdated: 2026-05-12T11:28:01.830Z
+status: up
+code: 200
+responseTime: 940
+lastUpdated: 2026-05-12T15:28:41.084Z
 startTime: 2022-10-24T13:49:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
