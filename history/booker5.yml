@@ -1,7 +1,7 @@
 url: $MS_TRAIN_ENDPOINT
 status: down
 code: 503
-responseTime: 376
-lastUpdated: 2026-06-12T23:36:59.548Z
+responseTime: 774
+lastUpdated: 2026-06-13T23:31:04.115Z
 startTime: 2022-10-24T13:49:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
