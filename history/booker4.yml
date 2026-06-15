@@ -1,7 +1,7 @@
 url: $MS_HOTEL_ENDPOINT
-status: down
-code: 503
-responseTime: 308
-lastUpdated: 2026-06-14T23:33:46.395Z
+status: up
+code: 200
+responseTime: 1045
+lastUpdated: 2026-06-15T10:36:32.252Z
 startTime: 2022-10-24T13:49:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
