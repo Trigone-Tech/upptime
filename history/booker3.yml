@@ -1,7 +1,7 @@
 url: $MS_FLIGHT_ENDPOINT
-status: down
-code: 503
-responseTime: 303
-lastUpdated: 2026-06-14T23:33:33.418Z
+status: up
+code: 200
+responseTime: 835
+lastUpdated: 2026-06-15T10:36:28.935Z
 startTime: 2022-10-24T13:49:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
