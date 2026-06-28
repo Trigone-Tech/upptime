@@ -4,11 +4,11 @@
     "url": "https://corporate.ayruu.com",
     "icon": "https://icons.duckduckgo.com/ip3/corporate.ayruu.com.ico",
     "slug": "corporate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.77%",
     "time": 602,
     "timeDay": 606,
@@ -20,7 +20,8 @@
       "2026-01-14": 592,
       "2026-01-13": 316,
       "2026-02-03": 31,
-      "2026-05-12": 246
+      "2026-05-12": 246,
+      "2026-06-28": 3
     }
   },
   {
@@ -28,13 +29,13 @@
     "url": "https://office.ayruu.com",
     "icon": "https://icons.duckduckgo.com/ip3/office.ayruu.com.ico",
     "slug": "office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.78%",
-    "time": 585,
+    "time": 584,
     "timeDay": 607,
     "timeWeek": 632,
     "timeMonth": 592,
@@ -43,7 +44,8 @@
       "2025-08-30": 29,
       "2026-01-14": 592,
       "2026-01-13": 315,
-      "2026-05-12": 241
+      "2026-05-12": 241,
+      "2026-06-28": 3
     }
   },
   {
@@ -56,7 +58,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.82%",
+    "uptimeYear": "41.83%",
     "time": 610,
     "timeDay": 625,
     "timeWeek": 621,
@@ -456,13 +458,13 @@
     "url": "$MS_ORGANIZATION_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "organization",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.04%",
-    "time": 2146,
+    "time": 2147,
     "timeDay": 2899,
     "timeWeek": 2912,
     "timeMonth": 2391,
@@ -476,7 +478,8 @@
       "2026-06-15": 636,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 259
+      "2026-06-12": 259,
+      "2026-06-28": 2
     }
   },
   {
@@ -484,10 +487,10 @@
     "url": "$MS_ENGINE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.03%",
     "time": 621,
@@ -503,7 +506,8 @@
       "2026-06-15": 636,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 259
+      "2026-06-12": 259,
+      "2026-06-28": 2
     }
   },
   {
@@ -511,10 +515,10 @@
     "url": "$MS_CAR_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.03%",
     "time": 544,
@@ -531,7 +535,8 @@
       "2026-06-15": 636,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 258
+      "2026-06-12": 258,
+      "2026-06-28": 2
     }
   },
   {
@@ -539,12 +544,12 @@
     "url": "$MS_DRIVER_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "91.38%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.02%",
     "time": 589,
     "timeDay": 1380,
     "timeWeek": 1245,
@@ -559,7 +564,8 @@
       "2026-06-15": 636,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 258
+      "2026-06-12": 258,
+      "2026-06-28": 2
     }
   },
   {
@@ -567,10 +573,10 @@
     "url": "$MS_FLIGHT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.04%",
     "time": 627,
@@ -587,7 +593,8 @@
       "2026-06-15": 637,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 258
+      "2026-06-12": 258,
+      "2026-06-28": 2
     }
   },
   {
@@ -595,10 +602,10 @@
     "url": "$MS_HOTEL_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.04%",
     "time": 638,
@@ -615,7 +622,8 @@
       "2026-06-15": 637,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 258
+      "2026-06-12": 258,
+      "2026-06-28": 1
     }
   },
   {
@@ -623,10 +631,10 @@
     "url": "$MS_TRAIN_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booker5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.04%",
     "time": 617,
@@ -642,7 +650,8 @@
       "2026-06-15": 637,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 257
+      "2026-06-12": 257,
+      "2026-06-28": 1
     }
   },
   {
@@ -650,10 +659,10 @@
     "url": "$MS_FEED_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "feed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.04%",
     "time": 520,
@@ -669,7 +678,8 @@
       "2026-06-15": 637,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 257
+      "2026-06-12": 257,
+      "2026-06-28": 1
     }
   },
   {
@@ -677,11 +687,11 @@
     "url": "$MS_POLICY_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "policy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.39%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.04%",
     "time": 782,
     "timeDay": 1517,
@@ -697,7 +707,8 @@
       "2026-06-15": 637,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 257
+      "2026-06-12": 257,
+      "2026-06-28": 1
     }
   }
 ]
